@@ -1,0 +1,12 @@
+.env
+*.pth
+*.pt
+*.onnx
+*.zip
+*.rar
+data/
+dataset/
+weights/
+__pycache__/
+.vscode/
+.DS_Store
